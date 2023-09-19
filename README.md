@@ -29,5 +29,5 @@ Traffic_Light_Controller: FAIL<br />
 Greatest_Common_Divisor: TIMEOUT<br />
 Booth_Multiplier_4bit: FILE_DNE<br />
 **Lab 6:** 59/100 <br />
-No care demonstration<br />
+No car demonstration<br />
 **Final Project:** 86.77 /100 <br />
